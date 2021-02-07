@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Code/MechStell/MechStell/Content/ende_Prellbock.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/ende_Prellbock.xnb","TextureProcessor","Texture2DContent",1937,65621,0,3024834
+"D:/Code/MechStell/MechStell/Content/gleis_gerade.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/gleis_gerade.xnb","TextureProcessor","Texture2DContent",1856,65621,0,0197796
+"D:/Code/MechStell/MechStell/Content/gleis_querLinks.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/gleis_querLinks.xnb","TextureProcessor","Texture2DContent",2739,65621,0,0150877
+"D:/Code/MechStell/MechStell/Content/gleis_querRechts.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/gleis_querRechts.xnb","TextureProcessor","Texture2DContent",2941,65621,0,0148077
+"D:/Code/MechStell/MechStell/Content/weiche_linksOben.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/weiche_linksOben.xnb","TextureProcessor","Texture2DContent",2505,65621,0,012486
+"D:/Code/MechStell/MechStell/Content/weiche_linksUnten.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/weiche_linksUnten.xnb","TextureProcessor","Texture2DContent",2229,65621,0,0133117
+"D:/Code/MechStell/MechStell/Content/weiche_rechtsOben.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/weiche_rechtsOben.xnb","TextureProcessor","Texture2DContent",2329,65621,0,0168755
+"D:/Code/MechStell/MechStell/Content/weiche_rechtsUnten.png","D:/Code/MechStell/MechStell/Content/bin/DesktopGL/weiche_rechtsUnten.xnb","TextureProcessor","Texture2DContent",2429,65621,0,0161184

@@ -41,7 +41,9 @@ namespace MechStell
                 return;
             }
 
-            new StellwerkGame().Run();
+            using (var game = new StellwerkGame(this, selectedStellwerk)) game.Run();
+
+            //new StellwerkGame().Run();
         }
 
         private void radioStellwerk_CheckedChanged(object sender, EventArgs e)
