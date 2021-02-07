@@ -1,0 +1,14 @@
+D:\Code\MechStell\MechStell\bin\Debug\MechStell.exe.config
+D:\Code\MechStell\MechStell\bin\Debug\MechStell.exe
+D:\Code\MechStell\MechStell\bin\Debug\MechStell.pdb
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.csprojAssemblyReference.cache
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.Properties.Resources.resources
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.csproj.GenerateResource.cache
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.csproj.CoreCompileInputs.cache
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.exe
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.pdb
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.formMainMenu.resources
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.StellwerkWindow.resources
+D:\Code\MechStell\MechStell\bin\Debug\MonoGame.Framework.dll
+D:\Code\MechStell\MechStell\bin\Debug\MonoGame.Framework.xml
+D:\Code\MechStell\MechStell\obj\Debug\MechStell.csproj.CopyComplete

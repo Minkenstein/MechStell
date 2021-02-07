@@ -1,0 +1,13 @@
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.exe
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.deps.json
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.runtimeconfig.json
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.runtimeconfig.dev.json
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.dll
+D:\Code\MechStell\MechStellServer\bin\Debug\netcoreapp3.1\MechStellServer.pdb
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.csprojAssemblyReference.cache
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.AssemblyInfoInputs.cache
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.AssemblyInfo.cs
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.csproj.CoreCompileInputs.cache
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.dll
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.pdb
+D:\Code\MechStell\MechStellServer\obj\Debug\netcoreapp3.1\MechStellServer.genruntimeconfig.cache
